@@ -32,7 +32,7 @@ ii)Most popular pizza types
 
 iii)Monthly sales trends
 
-### Build Tableau Dashboard
+## Build Tableau Dashboard
 
 #### Key Visuals:
 
@@ -59,9 +59,9 @@ iii)Monthly sales trends
 
 -What are the peak ordering times for business optimization?
 
-### Future Enhancements
+## Future Enhancements
 -Integrate real-time data pipelines for live dashboard updates.
 
 -Enhance customer segmentation using predictive analytics.
 
-Implement automated SQL queries for seamless data refresh.
+-Implement automated SQL queries for seamless data refresh.
