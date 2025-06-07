@@ -19,7 +19,7 @@ ii)SQL database (MySQL)
 
 iii)Dataset containing pizza sales details (stored in SQL)
 ### Steps to Set Up:
-#### Connect Tableau to SQL Database:
+#### a)Connect Tableau to SQL Database:
 
 i)Set up a connection to the pizza sales database.
 
@@ -34,7 +34,7 @@ iii)Monthly sales trends
 
 ## Build Tableau Dashboard
 
-#### Key Visuals:
+#### A)Key Visuals:
 
 -Revenue trends using time-series charts.
 
@@ -50,7 +50,7 @@ iii)Monthly sales trends
 
 -Drill-down options for deeper insights.
 
-### Key Insights
+### B)Key Insights
 -Which pizza types contribute the most to revenue?
 
 -How does seasonality impact sales?
