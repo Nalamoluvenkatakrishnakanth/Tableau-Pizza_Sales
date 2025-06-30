@@ -6,64 +6,69 @@ This project focuses on pizza sales analysis using Tableau for dashboard creatio
 
 ### Features:
 
-    -SQL-driven data processing for accurate analytics.
+    SQL-driven data processing for accurate analytics.
 
--Tableau dashboard for interactive exploration of key metrics.
+    Tableau dashboard for interactive exploration of key metrics.
 
--Insights on revenue, orders, and customer preferences.
+    Insights on revenue, orders, and customer preferences.
 
--Sales performance tracking across locations and time periods.
+    Sales performance tracking across locations and time periods.
 
 ## Installation & Setup
+
 ### Prerequisites:
-i)Tableau Desktop or Tableau Public
 
-ii)SQL database (MySQL)
+    i)Tableau Desktop or Tableau Public
 
-iii)Dataset containing pizza sales details (stored in SQL)
+    ii)SQL database (MySQL)
+
+    iii)Dataset containing pizza sales details (stored in SQL)
 
 ### Steps to Set Up:
+
 #### a)Connect Tableau to SQL Database:
 
-i)Set up a connection to the pizza sales database.
+    i)Set up a connection to the pizza sales database.
 
-ii)Import and clean data using SQL queries.
+    ii)Import and clean data using SQL queries.
 ### SQL Query Examples:
 
-i)Total sales calculation
+    i)Total sales calculation
 
-ii)Most popular pizza types
+    ii)Most popular pizza types
 
-iii)Monthly sales trends
+    iii)Monthly sales trends
 
 ## Build Tableau Dashboard
 
 #### A)Key Visuals:
 
--Revenue trends using time-series charts.
+    -Revenue trends using time-series charts.
 
--Top-selling pizzas using bar charts.
+    -Top-selling pizzas using bar charts.
 
--Customer segmentation using heatmaps.
+    -Customer segmentation using heatmaps.
 
--Geographic sales distribution using maps.
+    -Geographic sales distribution using maps.
 
--Filters & Interactivity:
+    -Filters & Interactivity:
 
--Dynamic filters for date ranges, pizza types, and locations.
+    -Dynamic filters for date ranges, pizza types, and locations.
 
--Drill-down options for deeper insights.
+    -Drill-down options for deeper insights.
 
 ### B)Key Insights
--Which pizza types contribute the most to revenue?
 
--How does seasonality impact sales?
+    -Which pizza types contribute the most to revenue?
 
--Which customer demographics drive the highest orders?
+    -How does seasonality impact sales?
 
--What are the peak ordering times for business optimization?
+    -Which customer demographics drive the highest orders?
+
+    -What are the peak ordering times for business optimization?
 
 ## Future Enhancements
+
 -Integrate real-time data pipelines for live dashboard updates.
 
 -Enhance customer segmentation using predictive analytics.
