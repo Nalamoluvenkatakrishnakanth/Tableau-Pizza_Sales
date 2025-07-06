@@ -6,17 +6,17 @@ This project focuses on pizza sales analysis using Tableau for dashboard creatio
 
 ### Features:
 
-    SQL-driven data processing for accurate analytics.
+    -SQL-driven data processing for accurate analytics.
 
-    Tableau dashboard for interactive exploration of key metrics.
+    -Tableau dashboard for interactive exploration of key metrics.
 
-    Insights on revenue, orders, and customer preferences.
+    -Insights on revenue, orders, and customer preferences.
 
-    Sales performance tracking across locations and time periods.
+    -Sales performance tracking across locations and time periods.
 
 ## Installation & Setup
 
-### Prerequisites:
+### A) Prerequisites:
 
     i)Tableau Desktop or Tableau Public
 
@@ -24,7 +24,7 @@ This project focuses on pizza sales analysis using Tableau for dashboard creatio
 
     iii)Dataset containing pizza sales details (stored in SQL)
 
-### Steps to Set Up:
+### B) Steps to Set Up:
 
 #### a)Connect Tableau to SQL Database:
 
@@ -69,8 +69,8 @@ This project focuses on pizza sales analysis using Tableau for dashboard creatio
 
 ## Future Enhancements
 
--Integrate real-time data pipelines for live dashboard updates.
+    -Integrate real-time data pipelines for live dashboard updates.
 
--Enhance customer segmentation using predictive analytics.
+    -Enhance customer segmentation using predictive analytics.
 
--Implement automated SQL queries for seamless data refresh.
+    -Implement automated SQL queries for seamless data refresh.
